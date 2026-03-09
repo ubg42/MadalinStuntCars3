@@ -8,7 +8,7 @@
 "TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
-"backgroundUrl": "https://pictures.topspeed.com/IMG/crop/201910/madalin-stunt-cars-3-1_800x0w.jpg",
+"backgroundUrl": "loadingimg.png",
 "splashScreenStyle": "Dark",
 "backgroundColor": "#FFFFFF",
 "totalFile": 2,
